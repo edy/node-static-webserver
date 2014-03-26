@@ -1,5 +1,7 @@
-# Static Webserver
+# Static Web Server
 
-`npm install -g static-webserver`  
-`cd my/dir/with/static/files`  
-`webserver`
+```sh
+$ npm install -g static-webserver
+$ cd my/dir/with/static/files
+$ webserver
+```
