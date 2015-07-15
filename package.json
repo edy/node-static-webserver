@@ -1,7 +1,7 @@
 {
   "name": "static-webserver",
   "author": "Eduard Baun <eduard@baun.de>",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "A simple static file webserver.",
   "keywords"      : ["static", "web", "server", "webserver"],
   "main": "index.js",
