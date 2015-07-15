@@ -33,6 +33,7 @@ app.get('*', function (req, res, next) {
 	});
 });
 
+app.use(express.compress());
 app.use(express.directory(cwd));
 app.use(express.static(cwd));
 
